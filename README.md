@@ -15,4 +15,4 @@
 >>>## DREAM: To be programmer № 1 in Tajikistan :rage3::muscle::rage3:
 >>>>### Favorite quote: *WHEN ONE DOOR CLOSES, I FIND TWO:exclamation:* 
 #### Contacts:
-### :telephone_receiver: : +992 000200290 (MegaFon) 
+### :telephone_receiver:   +992 000200290 (MegaFon) 
