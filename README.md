@@ -1,4 +1,6 @@
-## Hi there :bowtie:
+## Hey , I'm Ikrom Rahimov ! :sunglasses:
+- 🔭 I’m currently working for Humo!
+- 🌱 I’m currently learning Golang!
 
 <!--
 **ikrom97/ikrom97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
