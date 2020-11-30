@@ -12,6 +12,7 @@
 
 >### Speciality: Architect :city_sunrise:
 >>### Love & hobi: PROGRAMMING :computer:
+>>### Started programming in 2020.08.15 at age 23
 >>>## DREAM: To be programmer № 1 in Tajikistan :rage3::muscle::rage3:
 >>>>### Favorite quote: *WHEN ONE DOOR CLOSES, I FIND TWO:exclamation:* 
 #### Contacts:
