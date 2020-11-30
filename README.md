@@ -1,5 +1,5 @@
 # Hey , I'm Ikrom Rahimov ! :sunglasses:
-- 🔭 I’m currently working for Humo! 🌱 I’m currently learning Golang!
+- I’m currently working for Humo! **I’m currently learning Golang!**
 
 ## Tajik-Turkish joint-boarding high school graduate named after Mavlono J.B (2010-2015)
 
