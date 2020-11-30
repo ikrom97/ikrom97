@@ -4,7 +4,7 @@
 ## Tajik-Turkish joint-boarding high school graduate named after Mavlono J.B (2010-2015)
 
 >### Languages:
-
+>
 >>| Tajik :heartbeat: | Turkish :tr: |     Russia :ru:    |    English :us:    | 
 >>| :---------------: |:------------:| :-----------------:| :-----------------:|
 >>|       Native      | Intermediate | Upper-intermediate | Upper-intermediate |
