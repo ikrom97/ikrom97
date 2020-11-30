@@ -5,7 +5,12 @@
 
 ### Languages:
 
-| Tajik :heartbeat: | Turkish :tr: |     Russia :ru:    |    English :us:    | 
-| :---------------: |:------------:| :-----------------:| :-----------------:|
-|       Native      | Intermediate | Upper-intermediate | Upper-intermediate |
-|      :100: %      |     80 %     |        95 %        |        90 %        |
+>| Tajik :heartbeat: | Turkish :tr: |     Russia :ru:    |    English :us:    | 
+>| :---------------: |:------------:| :-----------------:| :-----------------:|
+>|       Native      | Intermediate | Upper-intermediate | Upper-intermediate |
+>|      :100: %      |     80 %     |        95 %        |        90 %        |
+
+### Speciality: Architect :city_sunrise:
+### Love & hobi: PROGRAMMING :computer:
+## DREAM: To be programmer № 1 in Tajikistan :rage3::muscle::rage3:
+### Favorite quote: *WHEN ONE DOOR CLOSES, I FIND TWO:exclamation:* 
